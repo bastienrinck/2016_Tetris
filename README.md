@@ -1,4 +1,4 @@
-# Tetris
+# 2016_Tetris
 Tetris game with NCurses
 
 ## Usage
